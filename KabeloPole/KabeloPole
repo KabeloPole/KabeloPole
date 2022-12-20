@@ -1,0 +1,21 @@
+Id :  sb-d6ab4b52-1fac-4083-ac9b-9b704482d1d9!b161779|client!b3650
+
+Secret : 10dcbb82-1a49-47e5-91d1-f53e844452ad$2xKn9ByPtLFXDtpmMn6gBMx1lGHa4AwKCJaEr9GxLzE=
+
+auth url:        https://astronenergy-q.authentication.eu10.hana.ondemand.com/oauth/authorize
+
+Token URL:    https://astronenergy-q.authentication.eu10.hana.ondemand.com/oauth/token
+
+ 
+
+ 
+
+OAuth2SAML Token URL :  https://astronenergy-q.authentication.eu10.hana.ondemand.com/oauth/token/alias/astronenergy-q.aws-live-eu10
+
+OAuth2SAML Audience   :  https://astronenergy-q.authentication.eu10.hana.ondemand.com
+
+Content name : t.9
+
+[Yesterday 11:36 AM] Sharma, Kirti
+astronenergy-q.eu10.hcs.cloud.sap
+
